@@ -1,4 +1,4 @@
-<bookinfo bgColor="#454545 " bgImage="bg.JPG" bgPosition="stretch" windowColor="#0066CC " themeName="Ocean">
+<bookinfo bgColor="#000000 " bgImage="bg.jpg" bgPosition="stretch" windowColor="#00FF80 " themeName="Romantic">
 	<leftmenu showTabBackground="false">
 		<issues visible="true" icon="library.png"/>
 		<toc visible="true" icon="toc.png"/>
